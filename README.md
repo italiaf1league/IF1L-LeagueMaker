@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/27899602/README.md)
 [RELEASE_NOTES_v1.0.0.md](https://github.com/user-attachments/files/27899463/RELEASE_NOTES_v1.0.0.md)
 # IF1L LeagueMaker v1.0.0
 
@@ -28,7 +29,33 @@ Per PC Windows x64:
 ## Funzionalita principali
 
 - Gestione lega offline
-- Estrazione piloti e scuderie
+- Estrazione piloti e scuderie# IF1L LeagueMaker
+
+App desktop Electron per creare e gestire campionati F1 offline.
+
+## Download
+
+- Ultima release: [GitHub Releases](https://github.com/italiaf1league/IF1L-LeagueMaker/releases/latest)
+- macOS Apple Silicon: [Scarica DMG arm64](https://github.com/italiaf1league/IF1L-LeagueMaker/releases/download/v1.0.0/IF1L%20LeagueMaker-1.0.0-arm64.dmg)
+- macOS Intel: [Scarica DMG x64](https://github.com/italiaf1league/IF1L-LeagueMaker/releases/download/v1.0.0/IF1L%20LeagueMaker-1.0.0.dmg)
+- Windows 64 bit: [Scarica installer EXE](https://github.com/italiaf1league/IF1L-LeagueMaker/releases/download/v1.0.0/IF1L%20LeagueMaker%20Setup%201.0.0.exe)
+
+## Funzionalita
+
+- estrazione piloti e scuderie
+- gestione classifica campionato
+- inserimento manuale dei piloti
+- modifica rapida di punti, vittorie, podi, pole e DNF
+- scheda singola pilota
+- export JPG classifica
+- chiusura campionato con grafica campione e PDF riepilogativo
+- salvataggio locale automatico dei dati
+
+## Note
+
+- I dati vengono salvati localmente sul computer che usa l'app.
+- Su macOS o Windows potrebbe comparire un avviso di sicurezza perche l'app non e ancora firmata digitalmente.
+
 - Inserimento manuale dei piloti
 - Classifica campionato con modifica rapida dei punti
 - Export JPG classifica in formato social
