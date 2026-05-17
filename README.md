@@ -36,7 +36,7 @@ App desktop Electron per creare e gestire campionati F1 offline.
 ## Download
 
 - Ultima release: [GitHub Releases](https://github.com/italiaf1league/IF1L-LeagueMaker/releases/latest)
-- macOS Apple Silicon: [Scarica DMG arm64](https://github.com/italiaf1league/IF1L-LeagueMaker/releases/download/v1.0.0/IF1L%20LeagueMaker-1.0.0-arm64.dmg)
+- macOS Apple Silicon: [Scarica DMG arm64](sha256:a8d7008355d69aee6780eba697387023578d3393ddebacc7d7d2ce8b3494e607)
 - macOS Intel: [Scarica DMG x64](https://github.com/italiaf1league/IF1L-LeagueMaker/releases/download/v1.0.0/IF1L%20LeagueMaker-1.0.0.dmg)
 - Windows 64 bit: [Scarica installer EXE](https://github.com/italiaf1league/IF1L-LeagueMaker/releases/download/v1.0.0/IF1L%20LeagueMaker%20Setup%201.0.0.exe)
 
